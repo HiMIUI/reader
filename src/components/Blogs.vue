@@ -1,5 +1,5 @@
 <template>
-	<h1>Blogs</h1>
+	<h1>Blogss</h1>
 	<StepPages></StepPages>
 </template>
 

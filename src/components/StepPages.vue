@@ -40,7 +40,7 @@
 		border-radius: 4px;
 		margin-left: 10px;
 	}
-	.stepPages span input:focus {
+	.stepPages input:focus {
 		border: none;
 		box-shadow: 0 0 10px rgba(0,0,0,.5);
 	}
